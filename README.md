@@ -289,33 +289,56 @@ eventsphere-management/
 
 ---
 
+---
+
 ## 📸 Screenshots
 
-### Home & Landing
-- ![Home Page 1](screenshots/HomePage.png)
-- ![Home Page 2](screenshots/HomePage2.png)
-- ![Home Page 3](screenshots/HomePage3.png)
-- ![Home Page 4](screenshots/HomePage4.png)
+### 🏠 Home Pages
+<div align="center">
+  <img src="screenshots/Home Page.png" alt="Home Page 1" width="45%">
+  <img src="screenshots/Home Page2.png" alt="Home Page 2" width="45%">
+</div>
+<div align="center">
+  <img src="screenshots/Home Page3.png" alt="Home Page 3" width="45%">
+  <img src="screenshots/Home Page4.png" alt="Home Page 4" width="45%">
+</div>
 
-### Authentication
-- ![Login](screenshots/LoginPage.png)
-- ![Register](screenshots/RegisterPage.png)
-- ![Forgot Password](screenshots/ForgotPassword.png)
-- ![Profile](screenshots/Profile.png)
+### 🔐 Authentication
+<div align="center">
+  <img src="screenshots/Login Page.png" alt="Login Page" width="45%">
+  <img src="screenshots/Register Page.png" alt="Register Page" width="45%">
+</div>
+<div align="center">
+  <img src="screenshots/Forgot Password.png" alt="Forgot Password" width="45%">
+  <img src="screenshots/Profile.png" alt="User Profile" width="45%">
+</div>
 
-### Dashboards
-- ![Admin Dashboard](screenshots/AdminDashboard.png)
-- ![Exhibitor Dashboard](screenshots/ExhibitorDashboard.png)
-- ![Attendee Dashboard](screenshots/AttendeeDashboard.png)
+### 👨‍💼 Admin Dashboard
+![Admin Dashboard](screenshots/Admin Dashboard.png)
+*Comprehensive analytics and event management*
 
-### Features
-- ![Analytics](screenshots/Analytics.png)
-- ![Booth Booking](screenshots/BoothBooking.png)
-- ![Create Expo](screenshots/CreateExpo.png)
-- ![Create Expo Form](screenshots/CreateExpo1.png)
-- ![Create Session](screenshots/CreateSession.png)
-- ![Session Management](screenshots/Session.png)
+### 🏢 Exhibitor Features
+<div align="center">
+  <img src="screenshots/Exhibitor Dashboard.png" alt="Exhibitor Dashboard" width="45%">
+  <img src="screenshots/Booth Booking.png" alt="Booth Booking" width="45%">
+</div>
 
+### 👥 Attendee Interface
+![Attendee Dashboard](screenshots/Attendee Dashboard.png)
+*Browse events and manage registrations*
+
+### 🎪 Expo Management
+<div align="center">
+  <img src="screenshots/Analytics.png" alt="Analytics" width="45%">
+  <img src="screenshots/Session.png" alt="Session Management" width="45%">
+</div>
+<div align="center">
+  <img src="screenshots/Create Expo.png" alt="Create Expo" width="45%">
+  <img src="screenshots/Create Expo1.png" alt="Create Expo Form" width="45%">
+</div>
+<div align="center">
+  <img src="screenshots/Create Session.png" alt="Create Session" width="45%">
+</div>
 
 ---
 
