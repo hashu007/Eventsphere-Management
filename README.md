@@ -290,19 +290,19 @@ eventsphere-management/
 ## 📸 Screenshots
 
 ### Login Page
-<!-- ![Login Page](screenshots/login.png) -->
+<!-- ![Login Page](screenshots/Login Page.png) -->
 *User authentication with role-based access*
 
 ### Admin Dashboard
-<!-- ![Admin Dashboard](screenshots/admin-dashboard.png) -->
+<!-- ![Admin Dashboard](screenshots/Admin Dashboard.png) -->
 *Comprehensive dashboard with analytics and metrics*
 
 ### Expo List
-<!-- ![Expo List](screenshots/expo-list.png) -->
+<!-- ![Expo List](screenshots/Attendee Dashboard2.png) -->
 *Browse and filter available expos*
 
 ### Exhibitor Profile
-<!-- ![Exhibitor Profile](screenshots/exhibitor-profile.png) -->
+<!-- ![Exhibitor Profile](screenshots/Profile.png) -->
 *Manage company information and products*
 
 ---
