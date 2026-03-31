@@ -292,92 +292,30 @@ eventsphere-management/
 ## 📸 Screenshots
 
 ### Home & Landing
-- ![Home Page 1](screenshots/Home Page.png)
-- ![Home Page 2](screenshots/Home Page2.png)
-- ![Home Page 3](screenshots/Home Page3.png)
-- ![Home Page 4](screenshots/Home Page4.png)
+- ![Home Page 1](screenshots/HomePage.png)
+- ![Home Page 2](screenshots/HomePage2.png)
+- ![Home Page 3](screenshots/HomePage3.png)
+- ![Home Page 4](screenshots/HomePage4.png)
 
 ### Authentication
-- ![Login](screenshots/Login Page.png)
-- ![Register](screenshots/Register Page.png)
-- ![Forgot Password](screenshots/Forgot Password.png)
+- ![Login](screenshots/LoginPage.png)
+- ![Register](screenshots/RegisterPage.png)
+- ![Forgot Password](screenshots/ForgotPassword.png)
 - ![Profile](screenshots/Profile.png)
 
 ### Dashboards
-- ![Admin Dashboard](screenshots/Admin Dashboard.png)
-- ![Exhibitor Dashboard](screenshots/Exhibitor Dashboard.png)
-- ![Attendee Dashboard](screenshots/Attendee Dashboard.png)
+- ![Admin Dashboard](screenshots/AdminDashboard.png)
+- ![Exhibitor Dashboard](screenshots/ExhibitorDashboard.png)
+- ![Attendee Dashboard](screenshots/AttendeeDashboard.png)
 
 ### Features
 - ![Analytics](screenshots/Analytics.png)
-- ![Booth Booking](screenshots/Booth Booking.png)
-- ![Create Expo](screenshots/Create Expo.png)
-- ![Create Expo Form](screenshots/Create Expo1.png)
-- ![Create Session](screenshots/Create Session.png)
+- ![Booth Booking](screenshots/BoothBooking.png)
+- ![Create Expo](screenshots/CreateExpo.png)
+- ![Create Expo Form](screenshots/CreateExpo1.png)
+- ![Create Session](screenshots/CreateSession.png)
 - ![Session Management](screenshots/Session.png)
 
----
-```
-
----
-
-## 📋 **How to Add This:**
-
-### **Method 1: Edit on GitHub**
-
-1. Go to your repository
-2. Click **README.md**
-3. Click **✏️ Edit**
-4. Scroll to where you want screenshots
-5. **Paste** the code above
-6. Click **"Commit changes"**
-
-### **Method 2: Replace Entire Screenshots Section**
-
-1. Find the `## 📸 Screenshots` section in your README
-2. **Delete everything** under it
-3. **Paste** the new code above
-4. **Commit changes**
-
----
-
-## ✅ **Your Complete File Structure:**
-```
-screenshots/
-├── Admin Dashboard.png          ✅
-├── Analytics.png                ✅
-├── Attendee Dashboard.png       ✅
-├── Booth Booking.png            ✅
-├── Create Expo.png              ✅
-├── Create Expo1.png             ✅
-├── Create Session.png           ✅
-├── Exhibitor Dashboard.png      ✅
-├── Forgot Password.png          ✅
-├── Home Page.png                ✅
-├── Home Page2.png               ✅
-├── Home Page3.png               ✅
-├── Home Page4.png               ✅
-├── Login Page.png               ✅
-├── Profile.png                  ✅
-├── Register Page.png            ✅
-└── Session.png                  ✅
-```
-
-**Total: 17 screenshots** ✨
-
----
-
-## 🎨 **Preview Layout:**
-
-Your README will show:
-```
-📸 Screenshots
-├── 🏠 Home Pages (4 images in 2 rows)
-├── 🔐 Authentication (4 images in 2 rows)
-├── 👨‍💼 Admin Dashboard (1 full-width image)
-├── 🏢 Exhibitor Features (2 images side by side)
-├── 👥 Attendee Interface (1 full-width image)
-└── 🎪 Expo Management (5 images)
 
 ---
 
