@@ -261,36 +261,40 @@ eventsphere-management/
 
 ### 🏠 Home Pages
 <div align="center">
-  <img src="screenshots/Home Page.png" alt="Home Page 1" width="45%">
-  <img src="screenshots/Home Page2.png" alt="Home Page 2" width="45%">
+  <img src="screenshots/Home%20Page.png" alt="Home Page 1" width="45%">
+  <img src="screenshots/Home%20Page2.png" alt="Home Page 2" width="45%">
 </div>
+
 <div align="center">
-  <img src="screenshots/Home Page3.png" alt="Home Page 3" width="45%">
-  <img src="screenshots/Home Page4.png" alt="Home Page 4" width="45%">
+  <img src="screenshots/Home%20Page3.png" alt="Home Page 3" width="45%">
+  <img src="screenshots/Home%20Page4.png" alt="Home Page 4" width="45%">
 </div>
 
 ### 🔐 Authentication
 <div align="center">
-  <img src="screenshots/Login Page.png" alt="Login Page" width="45%">
-  <img src="screenshots/Register Page.png" alt="Register Page" width="45%">
+  <img src="screenshots/Login%20Page.png" alt="Login Page" width="45%">
+  <img src="screenshots/Register%20Page.png" alt="Register Page" width="45%">
 </div>
+
 <div align="center">
-  <img src="screenshots/Forgot Password.png" alt="Forgot Password" width="45%">
+  <img src="screenshots/Forgot%20Password.png" alt="Forgot Password" width="45%">
   <img src="screenshots/Profile.png" alt="User Profile" width="45%">
 </div>
 
 ### 👨‍💼 Admin Dashboard
-![Admin Dashboard](screenshots/Admin Dashboard.png)
+![Admin Dashboard](screenshots/Admin%20Dashboard.png)
+
 *Comprehensive analytics and event management*
 
 ### 🏢 Exhibitor Features
 <div align="center">
-  <img src="screenshots/Exhibitor Dashboard.png" alt="Exhibitor Dashboard" width="45%">
-  <img src="screenshots/Booth Booking.png" alt="Booth Booking" width="45%">
+  <img src="screenshots/Exhibitor%20Dashboard.png" alt="Exhibitor Dashboard" width="45%">
+  <img src="screenshots/Booth%20Booking.png" alt="Booth Booking" width="45%">
 </div>
 
 ### 👥 Attendee Interface
-![Attendee Dashboard](screenshots/Attendee Dashboard.png)
+![Attendee Dashboard](screenshots/Attendee%20Dashboard.png)
+
 *Browse events and manage registrations*
 
 ### 🎪 Expo Management
@@ -298,12 +302,14 @@ eventsphere-management/
   <img src="screenshots/Analytics.png" alt="Analytics" width="45%">
   <img src="screenshots/Session.png" alt="Session Management" width="45%">
 </div>
+
 <div align="center">
-  <img src="screenshots/Create Expo.png" alt="Create Expo" width="45%">
-  <img src="screenshots/Create Expo1.png" alt="Create Expo Form" width="45%">
+  <img src="screenshots/Create%20Expo.png" alt="Create Expo" width="45%">
+  <img src="screenshots/Create%20Expo1.png" alt="Create Expo Form" width="45%">
 </div>
+
 <div align="center">
-  <img src="screenshots/Create Session.png" alt="Create Session" width="45%">
+  <img src="screenshots/Create%20Session.png" alt="Create Session" width="45%">
 </div>
 
 ---
