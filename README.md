@@ -261,41 +261,61 @@ eventsphere-management/
 
 ### 🏠 Home Pages
 <div align="center">
-  <img src="screenshots/Home%20Page.png" alt="Home Page 1" width="45%">
-  <img src="screenshots/Home%20Page2.png" alt="Home Page 2" width="45%">
+  <img src="screenshots/Home Page.png" alt="Home Page 1" width="45%">
+  <img src="screenshots/Home Page2.png" alt="Home Page 2" width="45%">
 </div>
 
 <div align="center">
-  <img src="screenshots/Home%20Page3.png" alt="Home Page 3" width="45%">
-  <img src="screenshots/Home%20Page4.png" alt="Home Page 4" width="45%">
+  <img src="screenshots/Home Page3.png" alt="Home Page 3" width="45%">
+  <img src="screenshots/Home Page4.png" alt="Home Page 4" width="45%">
 </div>
+
+---
 
 ### 🔐 Authentication
 <div align="center">
-  <img src="screenshots/Login%20Page.png" alt="Login Page" width="45%">
-  <img src="screenshots/Register%20Page.png" alt="Register Page" width="45%">
+  <img src="screenshots/Login Page.png" alt="Login Page" width="45%">
+  <img src="screenshots/Register Page.png" alt="Register Page" width="45%">
 </div>
 
 <div align="center">
-  <img src="screenshots/Forgot%20Password.png" alt="Forgot Password" width="45%">
-  <img src="screenshots/Profile.png" alt="User Profile" width="45%">
+  <img src="screenshots/Forgot Password.png" alt="Forgot Password" width="45%">
+  <img src="screenshots/Profile.png" alt="Profile Page" width="45%">
+  <img src="screenshots/Profile2.png" alt="Profile Page 2" width="45%">
 </div>
 
-### 👨‍💼 Admin Dashboard
-![Admin Dashboard](screenshots/Admin%20Dashboard.png)
+---
 
-*Comprehensive analytics and event management*
+### 👨‍💼 Admin Dashboard
+<div align="center">
+  <img src="screenshots/Admin Dashboard.png" alt="Admin Dashboard" width="70%">
+</div>
+
+<p align="center"><i>Comprehensive analytics and event management</i></p>
+
+---
 
 ### 🏢 Exhibitor Features
 <div align="center">
-  <img src="screenshots/Exhibitor%20Dashboard.png" alt="Exhibitor Dashboard" width="45%">
-  <img src="screenshots/Booth%20Booking.png" alt="Booth Booking" width="45%">
+  <img src="screenshots/Exhibitor Dashboard.png" alt="Exhibitor Dashboard" width="45%">
+  <img src="screenshots/Booth Booking.png" alt="Booth Booking" width="45%">
 </div>
 
-### 👥 Attendee Interface
-![Attendee Dashboard](screenshots/Attendee%20Dashboard.png)
+<div align="center">
+  <img src="screenshots/Exhibitor Dashboard2.png" alt="Exhibitor Dashboard 2" width="45%">
+</div>
 
-*Browse events and manage registrations*
+---
+
+### 👥 Attendee Interface
+<div align="center">
+  <img src="screenshots/Attendee Dashboard.png" alt="Attendee Dashboard" width="70%">
+  <img src="screenshots/Attendee Dashboard2.png" alt="Attendee Dashboard 2" width="70%">
+</div>
+
+<p align="center"><i>Browse events and manage registrations</i></p>
+
+---
 
 ### 🎪 Expo Management
 <div align="center">
@@ -304,14 +324,14 @@ eventsphere-management/
 </div>
 
 <div align="center">
-  <img src="screenshots/Create%20Expo.png" alt="Create Expo" width="45%">
-  <img src="screenshots/Create%20Expo1.png" alt="Create Expo Form" width="45%">
+  <img src="screenshots/Create Expo.png" alt="Create Expo" width="45%">
+  <img src="screenshots/Create Expo2.png" alt="Create Expo Form" width="45%">
 </div>
 
 <div align="center">
-  <img src="screenshots/Create%20Session.png" alt="Create Session" width="45%">
+  <img src="screenshots/Create Expo3.png" alt="Create Expo Step 3" width="45%">
+  <img src="screenshots/Create Session.png" alt="Create Session" width="45%">
 </div>
-
 ---
 
 ## 👨‍💻 Author
