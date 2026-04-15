@@ -19,7 +19,7 @@ A comprehensive full-stack web application for managing expos, trade shows, and 
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
+- [screenshot](#screenshot)
 - [Author](#author)
 
 ---
@@ -250,45 +250,45 @@ eventsphere-management/
 │   │   ├── App.js
 │   │   └── index.js
 │   └── package.json
-├── screenshots/
+├── screenshot/
 ├── .gitignore
 └── README.md
 ```
 
 ---
 
-## 📸 Screenshots
+## 📸 screenshot
 
 ### 🏠 Home Pages
 <div align="center">
-  <img src="screenshots/Home Page.png" alt="Home Page 1" width="45%">
-  <img src="screenshots/Home Page2.png" alt="Home Page 2" width="45%">
+  <img src="screenshot/Home Page.png" alt="Home Page 1" width="45%">
+  <img src="screenshot/Home Page2.png" alt="Home Page 2" width="45%">
 </div>
 
 <div align="center">
-  <img src="screenshots/Home Page3.png" alt="Home Page 3" width="45%">
-  <img src="screenshots/Home Page4.png" alt="Home Page 4" width="45%">
+  <img src="screenshot/Home Page3.png" alt="Home Page 3" width="45%">
+  <img src="screenshot/Home Page4.png" alt="Home Page 4" width="45%">
 </div>
 
 ---
 
 ### 🔐 Authentication
 <div align="center">
-  <img src="screenshots/Login Page.png" alt="Login Page" width="45%">
-  <img src="screenshots/Register Page.png" alt="Register Page" width="45%">
+  <img src="screenshot/Login Page.png" alt="Login Page" width="45%">
+  <img src="screenshot/Register Page.png" alt="Register Page" width="45%">
 </div>
 
 <div align="center">
-  <img src="screenshots/Forgot Password.png" alt="Forgot Password" width="45%">
-  <img src="screenshots/Profile.png" alt="Profile Page" width="45%">
-  <img src="screenshots/Profile2.png" alt="Profile Page 2" width="45%">
+  <img src="screenshot/Forgot Password.png" alt="Forgot Password" width="45%">
+  <img src="screenshot/Profile.png" alt="Profile Page" width="45%">
+  <img src="screenshot/Profile2.png" alt="Profile Page 2" width="45%">
 </div>
 
 ---
 
 ### 👨‍💼 Admin Dashboard
 <div align="center">
-  <img src="screenshots/Admin Dashboard.png" alt="Admin Dashboard" width="70%">
+  <img src="screenshot/Admin Dashboard.png" alt="Admin Dashboard" width="70%">
 </div>
 
 <p align="center"><i>Comprehensive analytics and event management</i></p>
@@ -297,20 +297,20 @@ eventsphere-management/
 
 ### 🏢 Exhibitor Features
 <div align="center">
-  <img src="screenshots/Exhibitor Dashboard.png" alt="Exhibitor Dashboard" width="45%">
-  <img src="screenshots/Booth Booking.png" alt="Booth Booking" width="45%">
+  <img src="screenshot/Exhibitor Dashboard.png" alt="Exhibitor Dashboard" width="45%">
+  <img src="screenshot/Booth Booking.png" alt="Booth Booking" width="45%">
 </div>
 
 <div align="center">
-  <img src="screenshots/Exhibitor Dashboard2.png" alt="Exhibitor Dashboard 2" width="45%">
+  <img src="screenshot/Exhibitor Dashboard2.png" alt="Exhibitor Dashboard 2" width="45%">
 </div>
 
 ---
 
 ### 👥 Attendee Interface
 <div align="center">
-  <img src="screenshots/Attendee Dashboard.png" alt="Attendee Dashboard" width="70%">
-  <img src="screenshots/Attendee Dashboard2.png" alt="Attendee Dashboard 2" width="70%">
+  <img src="screenshot/Attendee Dashboard.png" alt="Attendee Dashboard" width="70%">
+  <img src="screenshot/Attendee Dashboard2.png" alt="Attendee Dashboard 2" width="70%">
 </div>
 
 <p align="center"><i>Browse events and manage registrations</i></p>
@@ -319,18 +319,18 @@ eventsphere-management/
 
 ### 🎪 Expo Management
 <div align="center">
-  <img src="screenshots/Analytics.png" alt="Analytics" width="45%">
-  <img src="screenshots/Session.png" alt="Session Management" width="45%">
+  <img src="screenshot/Analytics.png" alt="Analytics" width="45%">
+  <img src="screenshot/Session.png" alt="Session Management" width="45%">
 </div>
 
 <div align="center">
-  <img src="screenshots/Create Expo.png" alt="Create Expo" width="45%">
-  <img src="screenshots/Create Expo2.png" alt="Create Expo Form" width="45%">
+  <img src="screenshot/Create Expo.png" alt="Create Expo" width="45%">
+  <img src="screenshot/Create Expo2.png" alt="Create Expo Form" width="45%">
 </div>
 
 <div align="center">
-  <img src="screenshots/Create Expo3.png" alt="Create Expo Step 3" width="45%">
-  <img src="screenshots/Create Session.png" alt="Create Session" width="45%">
+  <img src="screenshot/Create Expo3.png" alt="Create Expo Step 3" width="45%">
+  <img src="screenshot/Create Session.png" alt="Create Session" width="45%">
 </div>
 ---
 
